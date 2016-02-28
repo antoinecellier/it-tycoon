@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/macilry/it-tycoon"
   },
-  "homepage": "",
-  "bugs": "",
+  "homepage": "https://github.com/macilry/it-tycoon",
+  "bugs": "https://github.com/macilry/it-tycoon/issues",
   "keywords": [
     "react",
     "reactjs",
