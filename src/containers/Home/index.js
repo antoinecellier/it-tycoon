@@ -22,7 +22,6 @@ export class Home extends Component {
   render() {
     return (
       <section>
-        <DocumentMeta {...metaData} />
         <TopImage {...this.props} />
         <Tools {...this.props} />
       </section>

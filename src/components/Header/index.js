@@ -21,6 +21,9 @@ export class Header extends Component {
                 <Link to="/home" activeClassName="active">
                   Home
                 </Link>
+                <Link to="/game" activeClassName="active">
+                  Game
+                </Link>
               </nav>
             </div>
           </div>
